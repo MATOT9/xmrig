@@ -27,7 +27,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 ## Developers
 * **[xmrig](https://github.com/xmrig)**
 * **[sech1](https://github.com/SChernykh)**
-* **[xmrig](https://github.com/MATOT9)**
+* **[MATOT9](https://github.com/MATOT9)**
 
 ## Contacts
 * support@xmrig.com
